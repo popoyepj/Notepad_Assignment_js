@@ -1,0 +1,33 @@
+.body{
+    margin:0px;
+    padding: 0px;
+    /* font-family:'Times New Roman', Times, serif; */
+}
+
+h1{
+    padding-left: 46%;
+    font-size: 40px ;
+    color:rgb(40, 141, 169);
+}
+textarea{
+    margin-left: 5%;
+    border-color: rgb(204, 198, 198);
+}
+.buttons{
+    padding-left: 30% ;
+    display: flex;
+}
+.save_button{
+    margin: 2%;
+
+}
+.button{
+    color: white;
+    text-decoration: none;
+    padding: 10px 100px;
+    font-size: 15px;
+    background-color: rgb(80, 156, 175);
+}
+.clear_button{
+    margin: 2%;
+}
